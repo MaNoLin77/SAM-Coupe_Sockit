@@ -1,3 +1,8 @@
+# SAM coupe for SoCkit
+Ported from https://github.com/MiSTer-devel/SAM-Coupe_MiSTer according from Somhi sockit template
+
+Follows original readme file.
+
 # [SAM Coupe](https://en.wikipedia.org/wiki/SAM_Coup%C3%A9) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### Features:
